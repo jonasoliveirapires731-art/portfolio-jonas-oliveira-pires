@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# [jonas oliveira pires]
+> Estudante de [Nome do Curso - ex: analise e desenvolvimento de sistemas]
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
@@ -10,15 +10,10 @@ badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
 e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
-Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
-* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
-assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
+Atualmente cursando o analise e Desnvolvimento período de [amanha] na [instituicao da unicid carrao no tatuape]. sou bastante interessado nessa area de tecnologia,bastante curioso nessa area gosto de aprender coisas novas na vida 
+* **Habilidades Técnicas:** [Ex: Python, c, c++].
+* **Habilidades Socioemocionais:** Trabalho em equipe, boa comunicao, pensamento critico
+* **Experiência/Projetos Relevantes:** Atuei em projetos de calcular media de alunos umsite de advogacia
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
