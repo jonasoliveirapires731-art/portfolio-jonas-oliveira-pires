@@ -13,8 +13,7 @@ e-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 Atualmente cursando o analise e Desnvolvimento período de [amanha] na [instituicao da unicid carrao no tatuape]. sou bastante interessado nessa area de tecnologia,bastante curioso nessa area gosto de aprender coisas novas na vida 
 * **Habilidades Técnicas:** [Ex: Python, c, c++].
 * **Habilidades Socioemocionais:** Trabalho em equipe, boa comunicao, pensamento critico
-* **Experiência/Projetos Relevantes:** Atuei em projetos de calcular media de alunos umsite de advogacia
----
+* **Experiência/Projetos Relevantes:** Atuei em projetos de calcular media de alunos um site de advogacia feito em desenvolvimento web
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge
