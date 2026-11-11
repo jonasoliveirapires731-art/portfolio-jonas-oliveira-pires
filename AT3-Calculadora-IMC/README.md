@@ -9,13 +9,13 @@
 ### 󰞵 Sobre
 Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
 Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
-Backend / Análise de Dados].
+tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento full-stack rede de computadores].areas que vou atuar nessa tenho bastante interesse muito mesmo, bastante inteligente gosto de aprender como as coisa funcionam nessa area de tcnologia
+tenho foco  bastante foco, pensamento critico
+
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
-Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** 
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
