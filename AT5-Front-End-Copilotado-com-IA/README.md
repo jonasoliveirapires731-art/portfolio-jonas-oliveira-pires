@@ -1,5 +1,5 @@
 # [Jonas Oliveira Pires]
-> Estudante de [ADS - ex: analise e desenvolvimento de sistemas ]
+> Estudante de [ADS - ex: analise e desenvolvimento de sistema ]
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
