@@ -7,8 +7,7 @@
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
+Atualmente cursando o [2 semestre Xº] período de [analise e desenvolvimento de sistemas] na [unicid gruzeiro do sul]. Sou apaixonado por resolver problemas através da
 tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento full-stack rede de computadores].areas que vou atuar nessa tenho bastante interesse muito mesmo, bastante inteligente gosto de aprender como as coisa funcionam nessa area de tcnologia
 tenho foco  bastante foco, pensamento critico
 
