@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# [Jonas Oliveira Pires]
+> Estudante de [ADS - ex: ]
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
@@ -7,11 +7,8 @@
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da
-Instituição]. Sou apaixonado por resolver problemas através da
-tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento
-Backend / Análise de Dados].
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+Atualmente cursando o [2 semestre da faculdade º] período de [de manha] na [unicid cruzeiro do sul]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento full-stack rede de computadores].
+* **Habilidades Técnicas:** Ex: Python, c, c++
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
