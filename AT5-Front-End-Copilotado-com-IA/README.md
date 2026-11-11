@@ -1,5 +1,5 @@
 # [Jonas Oliveira Pires]
-> Estudante de [ADS - ex: ]
+> Estudante de [ADS - ex: analise e desenvolvimento de sistemas ]
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
@@ -7,7 +7,9 @@
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
 ---
 ### 󰞵 Sobre
-Atualmente cursando o [2 semestre da faculdade º] período de [de manha] na [unicid cruzeiro do sul]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento full-stack rede de computadores].
+Atualmente cursando o [2 semestre da faculdade º] período de [de manha] na [unicid cruzeiro do sul]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento full-stack rede de computadores].areas que vou atuar nessa tenho bastante interesse muito mesmo, bastante inteligente gosto de aprender como as coisa funcionam nessa area de tcnologia
+tenho foco  bastante foco, pensamento critico
+
 * **Habilidades Técnicas:** Ex: Python, c, c++
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação
 assertiva e pensamento crítico.
